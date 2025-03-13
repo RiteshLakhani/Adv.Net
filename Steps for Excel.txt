@@ -1,0 +1,73 @@
+Name:-  Ritesh Lakhani 
+EnrollmentNo:- 22010101099
+Batch:- A2
+
+Steps:- 
+
+##All Reference from  ChatGPT:- 
+
+1.Install Required NuGet Packages
+
+i. Install-Package EPPlus
+ii. Install System.IO.Packaging
+
+
+2. Update Your Controller
+
+i. Add the ExportToExcel Method
+ii. Retrieve Connection String:
+-->Use the IConfiguration service to get the database connection string from the configuration file (e.g., appsettings.json).
+iii.  Establish Database Connection
+	i.Create a SQL Connection:	
+	-->Open a connection to the SQL database using the retrieved connection string.
+	ii.Create a SQL Command:
+	-->Initialize a SQL command object for executing stored procedures.
+iv. Execute SQL Command
+	i.Set Command Type:
+	-->Set the command type to StoredProcedure because you will be executing a stored procedure.
+	ii.Set Command Text:
+	-->Specify the name of the stored procedure (PR_User_SelectAll) that retrieves the user data.
+	iii.Execute the Command:
+	-->Execute the command and get the result using a SqlDataReader.
+V.Load Data into DataTable
+	i. Create a DataTable:
+	-->Initialize a new DataTable object to store the data retrieved from the database.
+	ii. Load Data:
+	-->Load the data from the SqlDataReader into the DataTable.
+vi. Generate Excel File
+	i. Create an ExcelPackage:
+	-->Instantiate a new ExcelPackage object, which is used to create and manipulate Excel files.
+	ii. Add Worksheet:
+	-->Add a new worksheet to the ExcelPackage and name it (e.g., "Users").
+	iii. Load Data into Worksheet:
+	-->Load the data from the DataTable into the worksheet. Optionally, include headers by setting the second parameter to true.
+Vii. Prepare the File for Download
+	i. Create a MemoryStream:
+	-->Initialize a MemoryStream to hold the Excel file content.
+	ii. Save the ExcelPackage:
+	-->Save the ExcelPackage to the MemoryStream.
+	iii. Reset Stream Position:
+	-->Set the position of the MemoryStream to 0 to ensure the file is read from the beginning.
+Vii. Return the File to the Client
+	i. Set File Name:
+	-->Define the name of the file to be downloaded (e.g., "Users.xlsx").
+	ii.Return File Result:
+	-->Use the File method to return the MemoryStream as a downloadable file with the appropriate MIME type for Excel files 	(application/vnd.openxmlformats-officedocument.spreadsheetml.sheet).
+
+3. Update the List Page:-
+
+i. Add a Button or Link:
+-->Include a button or link in the HTML that points to the ExportToExcel action.
+
+Ex:- 
+(
+ <div class="text-end mb-3">
+     <a asp-controller="User" asp-action="ExportToExcel" class="btn btn-primary">
+         Excel Export
+     </a>
+ </div>
+)
+
+4. Run the Project 
+
+5. Every time generate New Excel File 

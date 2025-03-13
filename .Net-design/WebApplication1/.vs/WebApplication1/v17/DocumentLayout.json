@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Sem-5\\.Net-design\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD89049A-7674-4F23-A818-4DF591A11051}|WebApplication1\\WebApplication1.csproj|f:\\sem-5\\.net-design\\webapplication1\\webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD89049A-7674-4F23-A818-4DF591A11051}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD89049A-7674-4F23-A818-4DF591A11051}|WebApplication1\\WebApplication1.csproj|f:\\sem-5\\.net-design\\webapplication1\\webapplication1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD89049A-7674-4F23-A818-4DF591A11051}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD89049A-7674-4F23-A818-4DF591A11051}|WebApplication1\\WebApplication1.csproj|f:\\sem-5\\.net-design\\webapplication1\\webapplication1\\views\\student\\aboutme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD89049A-7674-4F23-A818-4DF591A11051}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\student\\aboutme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD89049A-7674-4F23-A818-4DF591A11051}|WebApplication1\\WebApplication1.csproj|f:\\sem-5\\.net-design\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD89049A-7674-4F23-A818-4DF591A11051}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD89049A-7674-4F23-A818-4DF591A11051}|WebApplication1\\WebApplication1.csproj|f:\\sem-5\\.net-design\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD89049A-7674-4F23-A818-4DF591A11051}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutMe.cshtml",
+              "DocumentMoniker": "F:\\Sem-5\\.Net-design\\WebApplication1\\WebApplication1\\Views\\Student\\AboutMe.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Student\\AboutMe.cshtml",
+              "ToolTip": "F:\\Sem-5\\.Net-design\\WebApplication1\\WebApplication1\\Views\\Student\\AboutMe.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Student\\AboutMe.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T05:15:42.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Sem-5\\.Net-design\\WebApplication1\\WebApplication1\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Student\\Index.cshtml",
+              "ToolTip": "F:\\Sem-5\\.Net-design\\WebApplication1\\WebApplication1\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T05:06:45.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "F:\\Sem-5\\.Net-design\\WebApplication1\\WebApplication1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StudentController.cs",
+              "ToolTip": "F:\\Sem-5\\.Net-design\\WebApplication1\\WebApplication1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:06:19.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Sem-5\\.Net-design\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\Sem-5\\.Net-design\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T05:01:53.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Sem-5\\.Net-design\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Sem-5\\.Net-design\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:59:29.687Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

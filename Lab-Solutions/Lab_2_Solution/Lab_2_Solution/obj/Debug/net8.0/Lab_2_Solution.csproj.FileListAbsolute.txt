@@ -1,0 +1,14 @@
+F:\Sem-5\.Net-design\Lab_2_Solution\Lab_2_Solution\bin\Debug\net8.0\Lab_2_Solution.exe
+F:\Sem-5\.Net-design\Lab_2_Solution\Lab_2_Solution\bin\Debug\net8.0\Lab_2_Solution.deps.json
+F:\Sem-5\.Net-design\Lab_2_Solution\Lab_2_Solution\bin\Debug\net8.0\Lab_2_Solution.runtimeconfig.json
+F:\Sem-5\.Net-design\Lab_2_Solution\Lab_2_Solution\bin\Debug\net8.0\Lab_2_Solution.dll
+F:\Sem-5\.Net-design\Lab_2_Solution\Lab_2_Solution\bin\Debug\net8.0\Lab_2_Solution.pdb
+F:\Sem-5\.Net-design\Lab_2_Solution\Lab_2_Solution\obj\Debug\net8.0\Lab_2_Solution.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sem-5\.Net-design\Lab_2_Solution\Lab_2_Solution\obj\Debug\net8.0\Lab_2_Solution.AssemblyInfoInputs.cache
+F:\Sem-5\.Net-design\Lab_2_Solution\Lab_2_Solution\obj\Debug\net8.0\Lab_2_Solution.AssemblyInfo.cs
+F:\Sem-5\.Net-design\Lab_2_Solution\Lab_2_Solution\obj\Debug\net8.0\Lab_2_Solution.csproj.CoreCompileInputs.cache
+F:\Sem-5\.Net-design\Lab_2_Solution\Lab_2_Solution\obj\Debug\net8.0\Lab_2_Solution.dll
+F:\Sem-5\.Net-design\Lab_2_Solution\Lab_2_Solution\obj\Debug\net8.0\refint\Lab_2_Solution.dll
+F:\Sem-5\.Net-design\Lab_2_Solution\Lab_2_Solution\obj\Debug\net8.0\Lab_2_Solution.pdb
+F:\Sem-5\.Net-design\Lab_2_Solution\Lab_2_Solution\obj\Debug\net8.0\Lab_2_Solution.genruntimeconfig.cache
+F:\Sem-5\.Net-design\Lab_2_Solution\Lab_2_Solution\obj\Debug\net8.0\ref\Lab_2_Solution.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\ADMIN Pannel\\AdminPanel 2\\Admin2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30D772C9-DC8D-4CA9-8E1E-640C1ADC97E8}|Admin2\\Admin2.csproj|f:\\sem-5\\.net\\project-assignment\\admin pannel\\adminpanel 2\\admin2\\admin2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30D772C9-DC8D-4CA9-8E1E-640C1ADC97E8}|Admin2\\Admin2.csproj|solutionrelative:admin2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D772C9-DC8D-4CA9-8E1E-640C1ADC97E8}|Admin2\\Admin2.csproj|f:\\sem-5\\.net\\project-assignment\\admin pannel\\adminpanel 2\\admin2\\admin2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30D772C9-DC8D-4CA9-8E1E-640C1ADC97E8}|Admin2\\Admin2.csproj|solutionrelative:admin2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D772C9-DC8D-4CA9-8E1E-640C1ADC97E8}|Admin2\\Admin2.csproj|f:\\sem-5\\.net\\project-assignment\\admin pannel\\adminpanel 2\\admin2\\admin2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D772C9-DC8D-4CA9-8E1E-640C1ADC97E8}|Admin2\\Admin2.csproj|solutionrelative:admin2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\ADMIN Pannel\\AdminPanel 2\\Admin2\\Admin2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Admin2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\ADMIN Pannel\\AdminPanel 2\\Admin2\\Admin2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Admin2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T10:24:35.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\ADMIN Pannel\\AdminPanel 2\\Admin2\\Admin2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Admin2\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\ADMIN Pannel\\AdminPanel 2\\Admin2\\Admin2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Admin2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:04:32.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\ADMIN Pannel\\AdminPanel 2\\Admin2\\Admin2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Admin2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\ADMIN Pannel\\AdminPanel 2\\Admin2\\Admin2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Admin2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T07:04:03.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

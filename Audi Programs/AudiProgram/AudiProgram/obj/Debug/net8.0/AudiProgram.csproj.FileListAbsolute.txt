@@ -1,0 +1,14 @@
+F:\Sem-5\.Net-design\AudiProgram\AudiProgram\bin\Debug\net8.0\AudiProgram.exe
+F:\Sem-5\.Net-design\AudiProgram\AudiProgram\bin\Debug\net8.0\AudiProgram.deps.json
+F:\Sem-5\.Net-design\AudiProgram\AudiProgram\bin\Debug\net8.0\AudiProgram.runtimeconfig.json
+F:\Sem-5\.Net-design\AudiProgram\AudiProgram\bin\Debug\net8.0\AudiProgram.dll
+F:\Sem-5\.Net-design\AudiProgram\AudiProgram\bin\Debug\net8.0\AudiProgram.pdb
+F:\Sem-5\.Net-design\AudiProgram\AudiProgram\obj\Debug\net8.0\AudiProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sem-5\.Net-design\AudiProgram\AudiProgram\obj\Debug\net8.0\AudiProgram.AssemblyInfoInputs.cache
+F:\Sem-5\.Net-design\AudiProgram\AudiProgram\obj\Debug\net8.0\AudiProgram.AssemblyInfo.cs
+F:\Sem-5\.Net-design\AudiProgram\AudiProgram\obj\Debug\net8.0\AudiProgram.csproj.CoreCompileInputs.cache
+F:\Sem-5\.Net-design\AudiProgram\AudiProgram\obj\Debug\net8.0\AudiProgram.dll
+F:\Sem-5\.Net-design\AudiProgram\AudiProgram\obj\Debug\net8.0\refint\AudiProgram.dll
+F:\Sem-5\.Net-design\AudiProgram\AudiProgram\obj\Debug\net8.0\AudiProgram.pdb
+F:\Sem-5\.Net-design\AudiProgram\AudiProgram\obj\Debug\net8.0\AudiProgram.genruntimeconfig.cache
+F:\Sem-5\.Net-design\AudiProgram\AudiProgram\obj\Debug\net8.0\ref\AudiProgram.dll

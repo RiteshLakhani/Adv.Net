@@ -1,0 +1,28 @@
+F:\Sem-5\.Net-design\String_class_AudiProgram\String_class_AudiProgram\bin\Debug\net8.0\String_class_AudiProgram.exe
+F:\Sem-5\.Net-design\String_class_AudiProgram\String_class_AudiProgram\bin\Debug\net8.0\String_class_AudiProgram.deps.json
+F:\Sem-5\.Net-design\String_class_AudiProgram\String_class_AudiProgram\bin\Debug\net8.0\String_class_AudiProgram.runtimeconfig.json
+F:\Sem-5\.Net-design\String_class_AudiProgram\String_class_AudiProgram\bin\Debug\net8.0\String_class_AudiProgram.dll
+F:\Sem-5\.Net-design\String_class_AudiProgram\String_class_AudiProgram\bin\Debug\net8.0\String_class_AudiProgram.pdb
+F:\Sem-5\.Net-design\String_class_AudiProgram\String_class_AudiProgram\obj\Debug\net8.0\String_class_AudiProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sem-5\.Net-design\String_class_AudiProgram\String_class_AudiProgram\obj\Debug\net8.0\String_class_AudiProgram.AssemblyInfoInputs.cache
+F:\Sem-5\.Net-design\String_class_AudiProgram\String_class_AudiProgram\obj\Debug\net8.0\String_class_AudiProgram.AssemblyInfo.cs
+F:\Sem-5\.Net-design\String_class_AudiProgram\String_class_AudiProgram\obj\Debug\net8.0\String_class_AudiProgram.csproj.CoreCompileInputs.cache
+F:\Sem-5\.Net-design\String_class_AudiProgram\String_class_AudiProgram\obj\Debug\net8.0\String_class_AudiProgram.dll
+F:\Sem-5\.Net-design\String_class_AudiProgram\String_class_AudiProgram\obj\Debug\net8.0\refint\String_class_AudiProgram.dll
+F:\Sem-5\.Net-design\String_class_AudiProgram\String_class_AudiProgram\obj\Debug\net8.0\String_class_AudiProgram.pdb
+F:\Sem-5\.Net-design\String_class_AudiProgram\String_class_AudiProgram\obj\Debug\net8.0\String_class_AudiProgram.genruntimeconfig.cache
+F:\Sem-5\.Net-design\String_class_AudiProgram\String_class_AudiProgram\obj\Debug\net8.0\ref\String_class_AudiProgram.dll
+F:\Sem-5\.Net\Audi Programs\String_class_AudiProgram\String_class_AudiProgram\bin\Debug\net8.0\String_class_AudiProgram.exe
+F:\Sem-5\.Net\Audi Programs\String_class_AudiProgram\String_class_AudiProgram\bin\Debug\net8.0\String_class_AudiProgram.deps.json
+F:\Sem-5\.Net\Audi Programs\String_class_AudiProgram\String_class_AudiProgram\bin\Debug\net8.0\String_class_AudiProgram.runtimeconfig.json
+F:\Sem-5\.Net\Audi Programs\String_class_AudiProgram\String_class_AudiProgram\bin\Debug\net8.0\String_class_AudiProgram.dll
+F:\Sem-5\.Net\Audi Programs\String_class_AudiProgram\String_class_AudiProgram\bin\Debug\net8.0\String_class_AudiProgram.pdb
+F:\Sem-5\.Net\Audi Programs\String_class_AudiProgram\String_class_AudiProgram\obj\Debug\net8.0\String_class_AudiProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sem-5\.Net\Audi Programs\String_class_AudiProgram\String_class_AudiProgram\obj\Debug\net8.0\String_class_AudiProgram.AssemblyInfoInputs.cache
+F:\Sem-5\.Net\Audi Programs\String_class_AudiProgram\String_class_AudiProgram\obj\Debug\net8.0\String_class_AudiProgram.AssemblyInfo.cs
+F:\Sem-5\.Net\Audi Programs\String_class_AudiProgram\String_class_AudiProgram\obj\Debug\net8.0\String_class_AudiProgram.csproj.CoreCompileInputs.cache
+F:\Sem-5\.Net\Audi Programs\String_class_AudiProgram\String_class_AudiProgram\obj\Debug\net8.0\String_class_AudiProgram.dll
+F:\Sem-5\.Net\Audi Programs\String_class_AudiProgram\String_class_AudiProgram\obj\Debug\net8.0\refint\String_class_AudiProgram.dll
+F:\Sem-5\.Net\Audi Programs\String_class_AudiProgram\String_class_AudiProgram\obj\Debug\net8.0\String_class_AudiProgram.pdb
+F:\Sem-5\.Net\Audi Programs\String_class_AudiProgram\String_class_AudiProgram\obj\Debug\net8.0\String_class_AudiProgram.genruntimeconfig.cache
+F:\Sem-5\.Net\Audi Programs\String_class_AudiProgram\String_class_AudiProgram\obj\Debug\net8.0\ref\String_class_AudiProgram.dll

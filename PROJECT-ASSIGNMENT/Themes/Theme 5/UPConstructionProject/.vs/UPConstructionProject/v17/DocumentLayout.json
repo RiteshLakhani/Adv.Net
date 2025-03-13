@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|f:\\sem-5\\.net\\project-assignment\\themes\\theme 5\\upconstructionproject\\upconstructionproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|solutionrelative:upconstructionproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|f:\\sem-5\\.net\\project-assignment\\themes\\theme 5\\upconstructionproject\\upconstructionproject\\views\\home\\starterpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|solutionrelative:upconstructionproject\\views\\home\\starterpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|f:\\sem-5\\.net\\project-assignment\\themes\\theme 5\\upconstructionproject\\upconstructionproject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|solutionrelative:upconstructionproject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|f:\\sem-5\\.net\\project-assignment\\themes\\theme 5\\upconstructionproject\\upconstructionproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|solutionrelative:upconstructionproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|f:\\sem-5\\.net\\project-assignment\\themes\\theme 5\\upconstructionproject\\upconstructionproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|solutionrelative:upconstructionproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|f:\\sem-5\\.net\\project-assignment\\themes\\theme 5\\upconstructionproject\\upconstructionproject\\views\\projects\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|solutionrelative:upconstructionproject\\views\\projects\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|f:\\sem-5\\.net\\project-assignment\\themes\\theme 5\\upconstructionproject\\upconstructionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|solutionrelative:upconstructionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|f:\\sem-5\\.net\\project-assignment\\themes\\theme 5\\upconstructionproject\\upconstructionproject\\views\\about\\abouts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|solutionrelative:upconstructionproject\\views\\about\\abouts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|f:\\sem-5\\.net\\project-assignment\\themes\\theme 5\\upconstructionproject\\upconstructionproject\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|solutionrelative:upconstructionproject\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|f:\\sem-5\\.net\\project-assignment\\themes\\theme 5\\upconstructionproject\\upconstructionproject\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|solutionrelative:upconstructionproject\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|f:\\sem-5\\.net\\project-assignment\\themes\\theme 5\\upconstructionproject\\upconstructionproject\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|solutionrelative:upconstructionproject\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|f:\\sem-5\\.net\\project-assignment\\themes\\theme 5\\upconstructionproject\\upconstructionproject\\views\\contact\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|solutionrelative:upconstructionproject\\views\\contact\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|f:\\sem-5\\.net\\project-assignment\\themes\\theme 5\\upconstructionproject\\upconstructionproject\\views\\services\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|solutionrelative:upconstructionproject\\views\\services\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|f:\\sem-5\\.net\\project-assignment\\themes\\theme 5\\upconstructionproject\\upconstructionproject\\views\\blog\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEEBD43F-006B-43BF-A706-65BD0E9E44AE}|UPConstructionProject\\UPConstructionProject.csproj|solutionrelative:upconstructionproject\\views\\blog\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StarterPage.cshtml",
+              "DocumentMoniker": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Views\\Home\\StarterPage.cshtml",
+              "RelativeDocumentMoniker": "UPConstructionProject\\Views\\Home\\StarterPage.cshtml",
+              "ToolTip": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Views\\Home\\StarterPage.cshtml",
+              "RelativeToolTip": "UPConstructionProject\\Views\\Home\\StarterPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T01:10:00.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "UPConstructionProject\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "UPConstructionProject\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T01:09:49.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UPConstructionProject\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UPConstructionProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:09:22.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "UPConstructionProject\\Controllers\\ProjectsController.cs",
+              "ToolTip": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "UPConstructionProject\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T19:00:56.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "UPConstructionProject\\Controllers\\BlogController.cs",
+              "ToolTip": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "UPConstructionProject\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T19:00:53.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Program.cs",
+              "RelativeDocumentMoniker": "UPConstructionProject\\Program.cs",
+              "ToolTip": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Program.cs",
+              "RelativeToolTip": "UPConstructionProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T06:38:46.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "UPConstructionProject\\Controllers\\AboutController.cs",
+              "ToolTip": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "UPConstructionProject\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T06:38:35.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Views\\Services\\Services.cshtml",
+              "RelativeDocumentMoniker": "UPConstructionProject\\Views\\Services\\Services.cshtml",
+              "ToolTip": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Views\\Services\\Services.cshtml",
+              "RelativeToolTip": "UPConstructionProject\\Views\\Services\\Services.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T07:30:16.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Project.cshtml",
+              "DocumentMoniker": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Views\\Projects\\Project.cshtml",
+              "RelativeDocumentMoniker": "UPConstructionProject\\Views\\Projects\\Project.cshtml",
+              "ToolTip": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Views\\Projects\\Project.cshtml",
+              "RelativeToolTip": "UPConstructionProject\\Views\\Projects\\Project.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAALwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T07:30:02.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UPConstructionProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UPConstructionProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAKACAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T07:29:54.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contacts.cshtml",
+              "DocumentMoniker": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Views\\Contact\\Contacts.cshtml",
+              "RelativeDocumentMoniker": "UPConstructionProject\\Views\\Contact\\Contacts.cshtml",
+              "ToolTip": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Views\\Contact\\Contacts.cshtml",
+              "RelativeToolTip": "UPConstructionProject\\Views\\Contact\\Contacts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T07:29:40.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Views\\Blog\\Blog.cshtml",
+              "RelativeDocumentMoniker": "UPConstructionProject\\Views\\Blog\\Blog.cshtml",
+              "ToolTip": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Views\\Blog\\Blog.cshtml",
+              "RelativeToolTip": "UPConstructionProject\\Views\\Blog\\Blog.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T07:29:30.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Abouts.cshtml",
+              "DocumentMoniker": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Views\\About\\Abouts.cshtml",
+              "RelativeDocumentMoniker": "UPConstructionProject\\Views\\About\\Abouts.cshtml",
+              "ToolTip": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Views\\About\\Abouts.cshtml",
+              "RelativeToolTip": "UPConstructionProject\\Views\\About\\Abouts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T07:29:19.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UPConstructionProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Sem-5\\.Net\\PROJECT-ASSIGNMENT\\Themes\\Theme 5\\UPConstructionProject\\UPConstructionProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UPConstructionProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAE0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T17:15:35.653Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

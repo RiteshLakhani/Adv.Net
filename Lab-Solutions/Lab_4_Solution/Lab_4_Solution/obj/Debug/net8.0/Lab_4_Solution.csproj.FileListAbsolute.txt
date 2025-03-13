@@ -1,0 +1,14 @@
+C:\Users\Ritesh\source\repos\Lab_4_Solution\Lab_4_Solution\bin\Debug\net8.0\Lab_4_Solution.exe
+C:\Users\Ritesh\source\repos\Lab_4_Solution\Lab_4_Solution\bin\Debug\net8.0\Lab_4_Solution.deps.json
+C:\Users\Ritesh\source\repos\Lab_4_Solution\Lab_4_Solution\bin\Debug\net8.0\Lab_4_Solution.runtimeconfig.json
+C:\Users\Ritesh\source\repos\Lab_4_Solution\Lab_4_Solution\bin\Debug\net8.0\Lab_4_Solution.dll
+C:\Users\Ritesh\source\repos\Lab_4_Solution\Lab_4_Solution\bin\Debug\net8.0\Lab_4_Solution.pdb
+C:\Users\Ritesh\source\repos\Lab_4_Solution\Lab_4_Solution\obj\Debug\net8.0\Lab_4_Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritesh\source\repos\Lab_4_Solution\Lab_4_Solution\obj\Debug\net8.0\Lab_4_Solution.AssemblyInfoInputs.cache
+C:\Users\Ritesh\source\repos\Lab_4_Solution\Lab_4_Solution\obj\Debug\net8.0\Lab_4_Solution.AssemblyInfo.cs
+C:\Users\Ritesh\source\repos\Lab_4_Solution\Lab_4_Solution\obj\Debug\net8.0\Lab_4_Solution.csproj.CoreCompileInputs.cache
+C:\Users\Ritesh\source\repos\Lab_4_Solution\Lab_4_Solution\obj\Debug\net8.0\Lab_4_Solution.dll
+C:\Users\Ritesh\source\repos\Lab_4_Solution\Lab_4_Solution\obj\Debug\net8.0\refint\Lab_4_Solution.dll
+C:\Users\Ritesh\source\repos\Lab_4_Solution\Lab_4_Solution\obj\Debug\net8.0\Lab_4_Solution.pdb
+C:\Users\Ritesh\source\repos\Lab_4_Solution\Lab_4_Solution\obj\Debug\net8.0\Lab_4_Solution.genruntimeconfig.cache
+C:\Users\Ritesh\source\repos\Lab_4_Solution\Lab_4_Solution\obj\Debug\net8.0\ref\Lab_4_Solution.dll

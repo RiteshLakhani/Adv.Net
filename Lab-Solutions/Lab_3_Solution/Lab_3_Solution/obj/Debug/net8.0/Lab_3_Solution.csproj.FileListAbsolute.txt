@@ -1,0 +1,14 @@
+F:\Sem-5\.Net-design\Lab_3_Solution\Lab_3_Solution\bin\Debug\net8.0\Lab_3_Solution.exe
+F:\Sem-5\.Net-design\Lab_3_Solution\Lab_3_Solution\bin\Debug\net8.0\Lab_3_Solution.deps.json
+F:\Sem-5\.Net-design\Lab_3_Solution\Lab_3_Solution\bin\Debug\net8.0\Lab_3_Solution.runtimeconfig.json
+F:\Sem-5\.Net-design\Lab_3_Solution\Lab_3_Solution\bin\Debug\net8.0\Lab_3_Solution.dll
+F:\Sem-5\.Net-design\Lab_3_Solution\Lab_3_Solution\bin\Debug\net8.0\Lab_3_Solution.pdb
+F:\Sem-5\.Net-design\Lab_3_Solution\Lab_3_Solution\obj\Debug\net8.0\Lab_3_Solution.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sem-5\.Net-design\Lab_3_Solution\Lab_3_Solution\obj\Debug\net8.0\Lab_3_Solution.AssemblyInfoInputs.cache
+F:\Sem-5\.Net-design\Lab_3_Solution\Lab_3_Solution\obj\Debug\net8.0\Lab_3_Solution.AssemblyInfo.cs
+F:\Sem-5\.Net-design\Lab_3_Solution\Lab_3_Solution\obj\Debug\net8.0\Lab_3_Solution.csproj.CoreCompileInputs.cache
+F:\Sem-5\.Net-design\Lab_3_Solution\Lab_3_Solution\obj\Debug\net8.0\Lab_3_Solution.dll
+F:\Sem-5\.Net-design\Lab_3_Solution\Lab_3_Solution\obj\Debug\net8.0\refint\Lab_3_Solution.dll
+F:\Sem-5\.Net-design\Lab_3_Solution\Lab_3_Solution\obj\Debug\net8.0\Lab_3_Solution.pdb
+F:\Sem-5\.Net-design\Lab_3_Solution\Lab_3_Solution\obj\Debug\net8.0\Lab_3_Solution.genruntimeconfig.cache
+F:\Sem-5\.Net-design\Lab_3_Solution\Lab_3_Solution\obj\Debug\net8.0\ref\Lab_3_Solution.dll

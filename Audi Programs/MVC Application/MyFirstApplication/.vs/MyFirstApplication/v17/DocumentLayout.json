@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Sem-5\\.Net-design\\MyFirstApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEADCCC-1CE5-43EC-A692-3B787ACDF5BC}|MyFirstApplication\\MyFirstApplication.csproj|f:\\sem-5\\.net-design\\myfirstapplication\\myfirstapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AEADCCC-1CE5-43EC-A692-3B787ACDF5BC}|MyFirstApplication\\MyFirstApplication.csproj|solutionrelative:myfirstapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEADCCC-1CE5-43EC-A692-3B787ACDF5BC}|MyFirstApplication\\MyFirstApplication.csproj|f:\\sem-5\\.net-design\\myfirstapplication\\myfirstapplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1AEADCCC-1CE5-43EC-A692-3B787ACDF5BC}|MyFirstApplication\\MyFirstApplication.csproj|solutionrelative:myfirstapplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEADCCC-1CE5-43EC-A692-3B787ACDF5BC}|MyFirstApplication\\MyFirstApplication.csproj|f:\\sem-5\\.net-design\\myfirstapplication\\myfirstapplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AEADCCC-1CE5-43EC-A692-3B787ACDF5BC}|MyFirstApplication\\MyFirstApplication.csproj|solutionrelative:myfirstapplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEADCCC-1CE5-43EC-A692-3B787ACDF5BC}|MyFirstApplication\\MyFirstApplication.csproj|f:\\sem-5\\.net-design\\myfirstapplication\\myfirstapplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AEADCCC-1CE5-43EC-A692-3B787ACDF5BC}|MyFirstApplication\\MyFirstApplication.csproj|solutionrelative:myfirstapplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEADCCC-1CE5-43EC-A692-3B787ACDF5BC}|MyFirstApplication\\MyFirstApplication.csproj|f:\\sem-5\\.net-design\\myfirstapplication\\myfirstapplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AEADCCC-1CE5-43EC-A692-3B787ACDF5BC}|MyFirstApplication\\MyFirstApplication.csproj|solutionrelative:myfirstapplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEADCCC-1CE5-43EC-A692-3B787ACDF5BC}|MyFirstApplication\\MyFirstApplication.csproj|f:\\sem-5\\.net-design\\myfirstapplication\\myfirstapplication\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1AEADCCC-1CE5-43EC-A692-3B787ACDF5BC}|MyFirstApplication\\MyFirstApplication.csproj|solutionrelative:myfirstapplication\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEADCCC-1CE5-43EC-A692-3B787ACDF5BC}|MyFirstApplication\\MyFirstApplication.csproj|f:\\sem-5\\.net-design\\myfirstapplication\\myfirstapplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AEADCCC-1CE5-43EC-A692-3B787ACDF5BC}|MyFirstApplication\\MyFirstApplication.csproj|solutionrelative:myfirstapplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEADCCC-1CE5-43EC-A692-3B787ACDF5BC}|MyFirstApplication\\MyFirstApplication.csproj|f:\\sem-5\\.net-design\\myfirstapplication\\myfirstapplication\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1AEADCCC-1CE5-43EC-A692-3B787ACDF5BC}|MyFirstApplication\\MyFirstApplication.csproj|solutionrelative:myfirstapplication\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEADCCC-1CE5-43EC-A692-3B787ACDF5BC}|MyFirstApplication\\MyFirstApplication.csproj|f:\\sem-5\\.net-design\\myfirstapplication\\myfirstapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1AEADCCC-1CE5-43EC-A692-3B787ACDF5BC}|MyFirstApplication\\MyFirstApplication.csproj|solutionrelative:myfirstapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "F:\\Sem-5\\.Net-design\\MyFirstApplication\\MyFirstApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "MyFirstApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "F:\\Sem-5\\.Net-design\\MyFirstApplication\\MyFirstApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "MyFirstApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AQIAAEgFAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-02T06:54:56.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "jquery.js",
+              "DocumentMoniker": "F:\\Sem-5\\.Net-design\\MyFirstApplication\\MyFirstApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "MyFirstApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "F:\\Sem-5\\.Net-design\\MyFirstApplication\\MyFirstApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "MyFirstApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-02T06:54:04.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bootstrap-utilities.css",
+              "DocumentMoniker": "F:\\Sem-5\\.Net-design\\MyFirstApplication\\MyFirstApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeDocumentMoniker": "MyFirstApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ToolTip": "F:\\Sem-5\\.Net-design\\MyFirstApplication\\MyFirstApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeToolTip": "MyFirstApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-02T06:53:54.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "F:\\Sem-5\\.Net-design\\MyFirstApplication\\MyFirstApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "MyFirstApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ToolTip": "F:\\Sem-5\\.Net-design\\MyFirstApplication\\MyFirstApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeToolTip": "MyFirstApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-02T06:53:52.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "F:\\Sem-5\\.Net-design\\MyFirstApplication\\MyFirstApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "MyFirstApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "F:\\Sem-5\\.Net-design\\MyFirstApplication\\MyFirstApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "MyFirstApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-02T06:53:50.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "F:\\Sem-5\\.Net-design\\MyFirstApplication\\MyFirstApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "MyFirstApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "F:\\Sem-5\\.Net-design\\MyFirstApplication\\MyFirstApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "MyFirstApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-02T06:53:48.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.js",
+              "DocumentMoniker": "F:\\Sem-5\\.Net-design\\MyFirstApplication\\MyFirstApplication\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "MyFirstApplication\\wwwroot\\js\\site.js",
+              "ToolTip": "F:\\Sem-5\\.Net-design\\MyFirstApplication\\MyFirstApplication\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "MyFirstApplication\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-02T06:53:27.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "F:\\Sem-5\\.Net-design\\MyFirstApplication\\MyFirstApplication\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MyFirstApplication\\wwwroot\\css\\site.css",
+              "ToolTip": "F:\\Sem-5\\.Net-design\\MyFirstApplication\\MyFirstApplication\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MyFirstApplication\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-02T06:53:15.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Sem-5\\.Net-design\\MyFirstApplication\\MyFirstApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyFirstApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Sem-5\\.Net-design\\MyFirstApplication\\MyFirstApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyFirstApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:47:21.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
